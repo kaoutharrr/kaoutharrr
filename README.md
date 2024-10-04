@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm KAOUTHAR</h1>
   <h1 align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/kkouaz" alt="kkouaz's 42 stats" /></a> </h1>
-<h3 align="center">a passionate software engineer</h3>
+<h3 align="center">I'm a passionate beginner software engineer with a keen interest in learning and building technology solutions. I have a growing knowledge of programming languages like Python, C++, and JavaScript, and I'm constantly improving my skills through projects and collaboration.</h3>
 
-- 🌱 I’m currently learning **web decelopment**
-
-
+- 🌱 I’m currently learning **Backend development with Python and Django, as well as containerization with Docker.**
+- 🔭 Working on: Building small projects to solve real-world problems and contribute to open-source.
 - 📫 How to reach me **kkouaz04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
