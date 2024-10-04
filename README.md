@@ -2,6 +2,7 @@
 <h3 align="center">a passionate software engineer</h3>
 
 - 🌱 I’m currently learning **web decelopment**
+  [![kkouaz's 42 stats](https://badge.mediaplus.ma/black/kkouaz)](https://github.com/oakoudad/badge42)
 
 - 📫 How to reach me **kkouaz04@gmail.com**
 
