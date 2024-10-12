@@ -2,9 +2,9 @@
   <h1 align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/kkouaz" alt="kkouaz's 42 stats" /></a> </h1>
 <h3 align="center">Passionate software engineer with a focus on Python, web development, and continuous learning. Enthusiastic about exploring new technologies, solving complex problems, and collaborating on innovative projects. Always eager to grow, share knowledge, and contribute to the open-source community..</h3>
 
-- 🌱 I’m currently learning **Backend development with Python and Django, as well as containerization with Docker.**
-- 🔭 Working on: Building small projects to solve real-world problems and contribute to open-source.
-- 📫 How to reach me **kkouaz04@gmail.com**
+-🌱 Currently exploring: Advanced web development, backend technologies with Python and Django, and mastering containerization using Docker. I'm also diving into network administration concepts.
+-🔭 What I'm working on: Developing ft_transcendence, a 42 project, while building innovative solutions to real-world problems and contributing to open-source communities.
+-📫 Let's connect: Feel free to reach out at kkouaz04@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
