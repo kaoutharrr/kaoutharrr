@@ -2,12 +2,6 @@
   <h1 align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/kkouaz" alt="kkouaz's 42 stats" /></a> </h1>
 <h3 align="center">Passionate software engineer with a focus on Python, web development, and continuous learning. Enthusiastic about exploring new technologies, solving complex problems, and collaborating on innovative projects. Always eager to grow, share knowledge, and contribute to the open-source community..</h3>
 
-- 🌱 Currently exploring: Advanced web development, backend technologies with Python and Django, and mastering containerization using Docker. I'm also diving into network administration concepts.
-- 🔭 What I'm working on: Developing ft_transcendence, a 42 project, while building innovative solutions to real-world problems and contributing to open-source communities.
-- 📫 Let's connect: Feel free to reach out at kkouaz04@gmail.com.
-<h1 align="center">Hi 👋, I'm KAOUTHAR</h1>
-<h3 align="center">a passionate software engineer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaoutharrr&label=Profile%20views&color=0e75b6&style=flat" alt="kaoutharrr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaoutharrr" alt="kaoutharrr" /></a> </p>
