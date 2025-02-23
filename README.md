@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaoutharrr" alt="kaoutharrr" /></a> </p>
 
-- 🔭 I’m currently working on [it-tacket](https://github.com/kaoutharrr/it-tacket)
-
+- 🔭 I’m currently working on https://github.com/kaoutharrr/-real-time-stock-price-data-pipeline
 - 🌱 I’m currently learning **Postgresql**
 
 - 👨‍💻 All of my projects are available at [kaouthar.me](kaouthar.me)
